@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amithsk
-- 👀 I’m interested in data analysis and python
-- 🌱 I’m currently learning Data visiulation using tableau
+- 👀 I’m interested in data analysis,python,product development and stock market
+- 🌱 I’m currently learning ML & AI using the AI tools :)
 - 💞️ I’m looking to collaborate on data extraction from various finical websites 
 - 📫 How to reach me 
 
